@@ -5,7 +5,7 @@
 ----
 
 - [x] [`1.安装环境`](./1.Installation-environment.md)
-- [x] [`2.输出输出`](./2.input.output.md)
+- [x] [`2.输入输出`](./2.input.output.md)
 - [x] [`3.缓冲`](./3.buffer.md)
 - [x] [`4.变量类型`](./4.variables--datatypes.md)
 - [x] [`5.基本运算`](./5.arithmetic.md)
